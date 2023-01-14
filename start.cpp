@@ -6,7 +6,8 @@
 using namespace std;
 
 int main()
-{
+{ 
+    int n;
 	int nYOB(0);
 	int nCurYear(2022);
 
